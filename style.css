@@ -11,4 +11,19 @@ margin: 0 auto;
 padding: 16px;
 }
 
+main {
+    background-color: #FFFFFF;
+    color: black#183C63;
+max-width: 800px;
+margin: 0 auto;
+padding: 16px;
+}
 
+.artigo-autor {
+    font-weight: bold;
+}
+
+
+article{
+    display: flex;
+}
